@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+}
+.header {
+    display: flex;
+    background-color: #1f2937;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px;
+    margin-top: 0px;
+}
+
+.left {
+    font-size: 24px;
+    color: #f9faf8;
+    padding-left: 50px;
+}
+
+ul {
+    color: #e5e7eb;
+    font-size: 18px;
+    text-decoration: none;
+    list-style-type: none;
+    gap: 12px;
+    display: flex;
+    
+}
+
+.right {
+    font-size: 18px;
+    color: #e5e7eb;
+    text-decoration: none;
+}
+
+.body1 {
+    display: flex;
+    background-color: #1f2937;
+    justify-content: space-around;
+}
+
+.headbody {
+    color: #f9faf8;
+    font-size: 48px;
+}
+
+.text {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.Sign.Up {
+    background-color: #3882f6;
+    color: white;
+    border-color: #3882f6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 4px;
+    border-radius: 10px;
+}
